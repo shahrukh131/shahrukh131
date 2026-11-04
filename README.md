@@ -1,5 +1,5 @@
 <!-- Header banner: vivid gradient, readable on light and dark -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d9488&height=190&section=header&text=Kazi%20Md.%20Shahrukh%20Hossain&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20%2F%20Fullstack%20Engineer&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="Kazi Md. Shahrukh Hossain — Senior Frontend / Fullstack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:134e4a,100:0d9488&height=160&section=header&text=Kazi%20Md.%20Shahrukh%20Hossain&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Senior%20Frontend%20%2F%20Fullstack%20Engineer&descAlignY=66&descSize=17&descColor=99f6e4&animation=fadeIn" width="100%" alt="Kazi Md. Shahrukh Hossain — Senior Frontend / Fullstack Engineer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&width=600&height=40&lines=Frontend+Lead+%40+Apsis+Solutions;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Made+a+key+API+call+26%C3%97+faster;Building+a+multi-tenant+SaaS" alt="Typing intro" />
@@ -76,5 +76,3 @@ I build fast, maintainable web platforms with **React, Next.js and TypeScript**,
 - 🔨 Building a multi-tenant warehouse & CMS SaaS
 - 🔁 Migrating a production app from Next.js 12 → Next.js 15 App Router
 - 📚 Going deeper on system design and backend architecture
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=110&section=footer" width="100%" alt="" />
