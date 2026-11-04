@@ -1,14 +1,14 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3d59a1&height=180&section=header&text=Kazi%20Md.%20Shahrukh%20Hossain&fontSize=36&fontColor=c0caf5&fontAlignY=38&desc=Senior%20Frontend%20%2F%20Fullstack%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Kazi Md. Shahrukh Hossain — Senior Frontend / Fullstack Engineer" />
+<!-- Header banner: vivid gradient, readable on light and dark -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=190&section=header&text=Kazi%20Md.%20Shahrukh%20Hossain&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20%2F%20Fullstack%20Engineer&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="Kazi Md. Shahrukh Hossain — Senior Frontend / Fullstack Engineer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Frontend+Lead+%40+Apsis+Solutions;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Made+a+key+API+call+26%C3%97+faster;Building+a+multi-tenant+SaaS" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=600&height=40&lines=Frontend+Lead+%40+Apsis+Solutions;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Made+a+key+API+call+26%C3%97+faster;Building+a+multi-tenant+SaaS" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kazi-md-shahrukh-hossain-akib/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
-  <a href="mailto:shahrukhakib@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
-  <a href="https://ieeexplore.ieee.org/abstract/document/9068092"><img src="https://img.shields.io/badge/IEEE%20Paper-1a1b27?style=for-the-badge&logo=ieee&logoColor=7aa2f7" alt="IEEE Publication" /></a>
+  <a href="https://www.linkedin.com/in/kazi-md-shahrukh-hossain-akib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shahrukhakib@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9068092"><img src="https://img.shields.io/badge/IEEE%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
 </p>
 
 ---
@@ -29,8 +29,15 @@ I build fast, maintainable web platforms with **React, Next.js and TypeScript**,
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,materialui&theme=dark" alt="Frontend stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mysql,redis,docker,git&theme=dark" alt="Backend and tooling stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,materialui&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,materialui&theme=light" alt="Frontend stack" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mysql,redis,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,mysql,redis,docker,git&theme=light" alt="Backend and tooling stack" />
+  </picture>
 </p>
 
 ---
@@ -38,16 +45,28 @@ I build fast, maintainable web platforms with **React, Next.js and TypeScript**,
 ### 📊 GitHub dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahrukh131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukh131&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shahrukh131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahrukh131&show_icons=true&bg_color=f5f7ff&title_color=4f46e5&icon_color=0ea5e9&text_color=334155&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukh131&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=6" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukh131&layout=compact&bg_color=f5f7ff&title_color=4f46e5&text_color=334155&hide_border=true&border_radius=14&langs_count=6" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=shahrukh131&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shahrukh131&theme=tokyonight&hide_border=true&border_radius=14" />
+    <img height="170" src="https://streak-stats.demolab.com?user=shahrukh131&hide_border=true&border_radius=14&background=F5F7FF&ring=4F46E5&fire=0EA5E9&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=4F46E5&sideLabels=334155&dates=64748B&stroke=CBD5E1" alt="Contribution streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrukh131&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shahrukh131&theme=tokyo-night&hide_border=true&radius=14&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahrukh131&bg_color=f5f7ff&color=334155&title_color=4f46e5&line=4f46e5&point=0ea5e9&area=true&area_color=a5b4fc&hide_border=true&radius=14" alt="Contribution activity graph" />
+  </picture>
 </p>
 
 ---
@@ -58,4 +77,4 @@ I build fast, maintainable web platforms with **React, Next.js and TypeScript**,
 - 🔁 Migrating a production app from Next.js 12 → Next.js 15 App Router
 - 📚 Going deeper on system design and backend architecture
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:1a1b27&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=110&section=footer" width="100%" alt="" />
